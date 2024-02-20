@@ -1,2 +1,4 @@
-# ASR_Vosk
-In this repo. I use Vosk model to automatically transcribe mp3 voice of Persian conference to text. This task is also called Automatic Speech Recognition (ASR) or Speech-to-text (STT) for Persian language. 
+# ASR_Journey
+In this repo. we wil use and test different model to automatically transcribe voice(Persian) to text. This task is also called Automatic Speech Recognition (ASR) for Persian language.
+till now these models are tested:
+1) Vosk
